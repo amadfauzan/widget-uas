@@ -22,11 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# 28-PBK-UTS-213510655
-# 28-PBK-UTS-213510655
-# 28-PBK-UTS-213510655
-# 28-PBK-UTS-213510655
-# 28-PBK-UTS-213510655
